@@ -3,5 +3,5 @@ def saludo ():
     print('Hola')
 
 for i in range(10):
-    #Forma de llamar una funcion
+    #Forma de llamar una funcio
     saludo()    
