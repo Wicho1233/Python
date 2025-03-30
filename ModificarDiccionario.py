@@ -4,7 +4,7 @@ alumnos ={'Juan':23,'Pedro':26,'Laura':24}
 alumnos['Juan']=24
 print(alumnos['Juan'])
 
-#Definir elementos
+#Definir elemento
 alumnos['Pablo']=21
 print(alumnos)
 
